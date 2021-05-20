@@ -1,0 +1,73 @@
+{
+  "accessKeyId": "***",
+  "accountId": "***",
+  "arn": "***",
+  "principalId": "***",
+  "sessionContext": {
+    "attributes": {
+      "creationDate": "***",
+      "mfaAuthenticated": "***"
+    },
+    "sessionIssuer": {
+      "accountId": "***",
+      "arn": "***",
+      "principalId": "***",
+      "type": "***",
+      "userName": "***"
+    },
+    "webIdFederationData": {}
+  },
+  "type": "***"
+}
+{
+  "accountId": "***",
+  "principalId": "***",
+  "type": "***"
+}
+{
+  "invokedBy": "***",
+  "type": "***"
+}
+{
+  "accessKeyId": "***",
+  "accountId": "***",
+  "arn": "***",
+  "invokedBy": "***",
+  "principalId": "***",
+  "sessionContext": {
+    "attributes": {
+      "creationDate": "***",
+      "mfaAuthenticated": "***"
+    },
+    "sessionIssuer": {
+      "accountId": "***",
+      "arn": "***",
+      "principalId": "***",
+      "type": "***",
+      "userName": "***"
+    },
+    "webIdFederationData": {}
+  },
+  "type": "***"
+}
+{
+  "accountId": "***",
+  "arn": "***",
+  "invokedBy": "***",
+  "principalId": "***",
+  "sessionContext": {
+    "attributes": {
+      "creationDate": "***",
+      "mfaAuthenticated": "***"
+    },
+    "sessionIssuer": {
+      "accountId": "***",
+      "arn": "***",
+      "principalId": "***",
+      "type": "***",
+      "userName": "***"
+    },
+    "webIdFederationData": {}
+  },
+  "type": "***"
+}
