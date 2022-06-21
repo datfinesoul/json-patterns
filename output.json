@@ -1,3 +1,10 @@
-{"a":0,"b":0,"c":"","d":{"e":[{"f":0},{"f":0,"g":null}],"h":""}}
-{"a":""}
-{"a":[]}
+{"@level":"","@message":"","@module":"","@timestamp":"","terraform":"","type":"","ui":""}
+{"@level":"","@message":"","@module":"","@timestamp":"","hook":{"id_key":"","id_value":"","resource":{"addr":"","implied_provider":"","module":"","resource":"","resource_key":null,"resource_name":"","resource_type":""}},"type":""}
+{"@level":"","@message":"","@module":"","@timestamp":"","hook":{"action":"","resource":{"addr":"","implied_provider":"","module":"","resource":"","resource_key":null,"resource_name":"","resource_type":""}},"type":""}
+{"@level":"","@message":"","@module":"","@timestamp":"","hook":{"action":"","elapsed_seconds":0,"id_key":"","id_value":"","resource":{"addr":"","implied_provider":"","module":"","resource":"","resource_key":null,"resource_name":"","resource_type":""}},"type":""}
+{"@level":"","@message":"","@module":"","@timestamp":"","changes":{"add":0,"change":0,"operation":"","remove":0},"type":""}
+{"@level":"","@message":"","@module":"","@timestamp":"","outputs":{"all":{"action":"","sensitive":true}},"type":""}
+{"@level":"","@message":"","@module":"","@timestamp":"","outputs":{"all":{"sensitive":true,"type":["",{}],"value":{}}},"type":""}
+{"@level":"","@message":"","@module":"","@timestamp":"","change":{"action":"","resource":{"addr":"","implied_provider":"","module":"","resource":"","resource_key":null,"resource_name":"","resource_type":""}},"type":""}
+{"@level":"","@message":"","@module":"","@timestamp":"","hook":{"action":"","id_key":"","id_value":"","resource":{"addr":"","implied_provider":"","module":"","resource":"","resource_key":null,"resource_name":"","resource_type":""}},"type":""}
+{"@level":"","@message":"","@module":"","@timestamp":"","hook":{"action":"","elapsed_seconds":0,"resource":{"addr":"","implied_provider":"","module":"","resource":"","resource_key":null,"resource_name":"","resource_type":""}},"type":""}
